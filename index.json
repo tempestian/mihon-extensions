@@ -437,7 +437,7 @@
         },
         "extensionLib": "1.6",
         "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -815,7 +815,7 @@
         },
         "extensionLib": "1.6",
         "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -857,14 +857,14 @@
         },
         "extensionLib": "1.6",
         "versionCode": "106061",
-        "versionName": "1.6.61",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5672794736121634742",
             "name": "MilaSub",
             "language": "tr",
-            "homeUrl": "https://millascan.com"
+            "homeUrl": "https://milasub.com"
           }
         ]
       },
@@ -1305,7 +1305,7 @@
             "id": "7536061906713738443",
             "name": "Stray Fansub",
             "language": "tr",
-            "homeUrl": "https://strayfansub.buzz"
+            "homeUrl": "https://strayfansub.net"
           }
         ]
       },
@@ -1529,14 +1529,14 @@
         },
         "extensionLib": "1.6",
         "versionCode": "106065",
-        "versionName": "1.6.65",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8902732421830627437",
             "name": "Webtoon Hatti",
             "language": "tr",
-            "homeUrl": "https://webtoonhatti.club"
+            "homeUrl": "https://webtoonhatti.com"
           }
         ]
       },
